@@ -1,0 +1,2 @@
+Folder,Numerical Summary,Categorical Summary,Missing Summary,Correlation Matrix
+eda_results,eda_results\output/numerical_summary.csv,eda_results\output/categorical_summary.csv,eda_results\output/missing_summary.csv,eda_results\output/correlation_matrix.csv
